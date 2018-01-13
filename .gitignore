@@ -1,1 +1,16 @@
-/.idea/*
+.idea/*
+.svn/*
+.apt_generated/*
+.classpath
+.mymetadata
+.project
+.settings/*
+target/*
+.myeclipse
+release.properties
+.factorypath
+/target/
+misc.xml
+vcs.xml
+modules.xml
+Designpatterns.iml
