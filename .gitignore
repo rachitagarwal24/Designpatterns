@@ -1,4 +1,4 @@
-.idea/*
+/.idea/*
 .svn/*
 .apt_generated/*
 .classpath
