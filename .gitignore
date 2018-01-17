@@ -1,4 +1,5 @@
 /.idea/*
+.idea/*
 .svn/*
 out/*
 .apt_generated/*
